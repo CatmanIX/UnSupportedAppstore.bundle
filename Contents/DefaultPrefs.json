@@ -1,0 +1,32 @@
+[
+    {
+        "id": "adult",
+        "type": "bool",
+        "label": "Allow Adult Plugins",
+        "default": "True"
+    },
+    {
+        "id": "debug",
+        "type": "bool",
+        "label": "Enable Debug Logging",
+        "default": "False"
+    },
+    {
+        "id": "auto-update",
+        "type": "bool",
+        "label": "Automatically update plugins in the background",
+        "default": "True"
+    },
+    {
+        "id": "delete_data",
+        "type": "bool",
+        "label": "Delete plugin data when uninstalling",
+        "default": "True"
+    },
+    {
+        "id": "clear_dict",
+        "type": "bool",
+        "label": "Reset UnSupportedAppStore data. All plugins will need to be reinstalled for updates to work.",
+        "default": "False"
+    }
+]
