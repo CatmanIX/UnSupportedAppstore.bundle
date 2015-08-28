@@ -717,6 +717,19 @@
         "tracking url"    :     "http://bit.ly/I6PmCs"
     },
     {
+        "title"           :     "My Anime",
+        "bundle"          :     "MyAnime.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "View anime content from your JMM Server.",
+        "repo"            :     "git@github.com:japanesemediamanager/plexplugin.git",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.plugins.myanime",
+        "icon"            :     "icon-myanime.png",
+        "hidden"          :     "False",
+        "date added"      :     "August 28, 2015",
+        "tracking url"    :     ""
+    },
+    {
         "title"           :     "Navi-X",
         "bundle"          :     "navix.bundle",
         "type"            :     ["Video"],
