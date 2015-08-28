@@ -1167,7 +1167,7 @@
         "bundle"          :     "UnSupportedAppstore.bundle",
         "type"            :     ["Application"],
         "description"     :     "Download, install, and update unsupported plugins for PMS",
-        "repo"            :     "git@github.com:mikedm139/UnSupportedAppstore.bundle.git",
+        "repo"            :     "git@github.com:CatmanIX/UnSupportedAppstore.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.unsupportedappstore",
         "icon"            :     "icon-default.png",
