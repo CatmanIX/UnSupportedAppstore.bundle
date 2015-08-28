@@ -1031,6 +1031,19 @@
         "tracking url"    :     "http://bit.ly/1n0kBiJ"
     },
     {
+        "title"           :     "Sonarr",
+        "bundle"          :     "Sonarr.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "A plugin for Plex Media Server to control Sonarr (formally NzbDrone).",
+        "repo"            :     "git@github.com:jamorin/Sonarr.bundle.git",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.plugins.sonarr",
+        "icon"            :     "icon-sonarr.png",
+        "hidden"          :     "False",
+        "date added"      :     "August 28, 2015",
+        "tracking url"    :     ""
+    },
+    {
         "title"           :     "Spotify2",
         "bundle"          :     "Spotify2.bundle",
         "type"            :     ["Music"],
