@@ -11,7 +11,7 @@ If you have authored a plugin and would like for it to appear in the UnSupported
 #Edit the plugin_details.json file in /Contents/Resources/ to add the necessary info about your plugin. All fields except the "tracking url" should be filled in.
 #Please leave the tracking url blank. I will assign one upon merging your changes. This is to ensure that all tracking stats are centrally maintained.
 #Add a copy of the icon for your plugin to the /Contents/Resources/ folder. Make sure it has a unique name, i.e. not the standard icon-default.png.
-#Commit your changes with an appropriate descrition.
+#Commit your changes with an appropriate description.
 #Send a Pull Request for your changes to be merged into the master-branch.
 
 Once the changes have been reviewed, they will be merged and your plugin will appear in the UnSupported AppStore. Please keep in mind for future development that, since the AppStore pulls updates directly from your plugins git repository that until any code changes are tested, it is best to work in a branch other than 'master'.
