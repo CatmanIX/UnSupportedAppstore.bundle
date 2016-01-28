@@ -26,6 +26,19 @@
         "tracking url"    :     "http://bit.ly/1NKSMt5"
     },
     {
+        "title"           :     "Trakt.tv plugin",
+        "bundle"          :     "trakttv.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "OBSOLETE: Please check out the NEW UASv2 included in Plex WebTools v2.0! Trakt.tv plugin will be added there shortly! https://forums.plex.tv/discussion/126254",
+        "repo"            :     "git@github.com:trakt/Plex-Trakt-Scrobbler.git",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.plugins.trakttv",
+        "icon"            :     "trakttv-icon.png",
+        "hidden"          :     "False",
+        "date added"      :     "November 16, 2012",
+        "tracking url"    :     "http://bit.ly/18vC90y"
+    },
+    {
         "title"           :     "UnSupported Appstore",
         "bundle"          :     "UnSupportedAppstore.bundle",
         "type"            :     ["Application"],
