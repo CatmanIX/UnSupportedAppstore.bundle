@@ -1,4 +1,30 @@
 [
+        {
+        "title"           :     "My Anime",
+        "bundle"          :     "MyAnime.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "OBSOLETE: Please check out the NEW UASv2 included in Plex WebTools v2.0! JMM My Anime plugin will be added there shortly! https://forums.plex.tv/discussion/126254",
+        "repo"            :     "git@github.com:japanesemediamanager/plexplugin.git",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.plugins.myanime",
+        "icon"            :     "icon-myanime.png",
+        "hidden"          :     "False",
+        "date added"      :     "August 28, 2015",
+        "tracking url"    :     "http://bit.ly/1JApd7E"
+    },
+    {
+        "title"           :     "Sonarr",
+        "bundle"          :     "Sonarr.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "OBSOLETE: Please check out the NEW UASv2 included in Plex WebTools v2.0! Sonarr plugin will be added there shortly! https://forums.plex.tv/discussion/126254",
+        "repo"            :     "git@github.com:jamorin/Sonarr.bundle.git",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.plugins.sonarr",
+        "icon"            :     "icon-sonarr.png",
+        "hidden"          :     "False",
+        "date added"      :     "August 28, 2015",
+        "tracking url"    :     "http://bit.ly/1NKSMt5"
+    },
     {
         "title"           :     "UnSupported Appstore",
         "bundle"          :     "UnSupportedAppstore.bundle",
